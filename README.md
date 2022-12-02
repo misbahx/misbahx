@@ -54,8 +54,4 @@ I'm Work Backup Frontend Developer in <a href="https://telkomuniversity.ac.id/">
   ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
   ![Nextcloud](https://img.shields.io/badge/-Nextcloud-black?style=flat-square&logo=nextcloud)
 
-<p align="left">
-  <a href="https://github.com/Muhammad-Ikhwan-Fathulloh"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ikhwan-Fathulloh&hide_border=true&show_icons=true" alt="Muhammad-Ikhwan-Fathulloh's github stats"></a>
-</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misbahdevs)](https://github.com/anuraghazra/github-readme-stats)
+[![Misbah GitHub stats](https://github-readme-stats.vercel.app/api?username=misbahdevs)](https://github.com/misbahdevs/)
