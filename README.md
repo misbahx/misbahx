@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh&url=https%3A%2F%2Fikhwanfathulloh.nocturnailed.tech)](https://ikhwanfathulloh.nocturnailed.tech/)
 
-## I ❤️ Full-stack and Internet of Things Development!
+## I Frontend Developer
 ### Change Formula => { EM = 1/2m.v2 + m.g.h }
 <br>
 I'm Study in <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
