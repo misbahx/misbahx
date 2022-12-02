@@ -1,34 +1,22 @@
 ### Hello 👋
 ## My name Misbah
 
-[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/muhammad-ikhwan-fathulloh/)
-[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ikhwan_fathulloh/)
-[![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCBXuAApKa8JrN89t8Z2fekw)
-[![](https://img.shields.io/badge/-Dribbble-%23C51A4A?style=flat-square&logo=dribbble&logoColor=ffffff)](https://dribbble.com/Ikhwan17)
-[![](https://img.shields.io/badge/-Medium-%23181717?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@muhammadikhwanfathulloh17)
-[![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://muhammadikhwanfathulloh.blogspot.com/)
-[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/Muhammad-Ikhwan-Fathulloh)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=muhammad-ikhwan-fathulloh&url=https%3A%2F%2Fikhwanfathulloh.nocturnailed.tech)](https://ikhwanfathulloh.nocturnailed.tech/)
+[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/misbahlmnr/)
+[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/misbahhlmnr_/)
+[![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCPzyw8zrUglqO0xxQG7o2jA)
+[![](https://img.shields.io/badge/-Medium-%23181717?style=flat-square&logo=medium&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://www.brokensec.my.id/)
+[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/misbahdevs/)
 
 ## I Frontend Developer
-### Change Formula => { EM = 1/2m.v2 + m.g.h }
+### make a design and implement to code
 <br>
 I'm Study in <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
 <br>
 I'm Organization in <a href="https://oxigen.web.id/">OXIGEN Sekolah Tinggi Teknologi Bandung</a>
 <br>
-I'm Work Backend Laravel Programmer in Gesit <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
+I'm Work Backup Frontend Developer in <a href="https://telkomuniversity.ac.id/">Telkom University</a>
 <br>
-I'm Business Internet of Things Developer in Hadid Technology
-<br>
-I'm Collaboration with Nocturnailed, A90 Variation and Accesoris Motorcycle, Arkamaya Majalaya 
-<br>
-I'm Origami Artist in <a href="https://www.instagram.com/origamiphilosophy/">Origami Philosophy</a>
-<br>
-I'm Instructor Origami Hobby and Expert in <a href="https://www.instagram.com/mayahiraiorigamischool/">Maya Hirai Origami School</a>
-<br>
-My Second Github <a href="https://github.com/koalaw4n">Koalawan</a> for project Artificial Intelegent
-
 
 ## 🚀💻 Technologies & Tools
 
