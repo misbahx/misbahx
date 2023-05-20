@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/misbahdevs/)
 
 ## I Frontend Developer
-### make a design and implement to code
+### implement design to code
 <br>
 I'm Study in <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
 <br>
