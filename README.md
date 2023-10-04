@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://www.brokensec.my.id/)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/misbahdevs/)
 
-## I Frontend Developer
+## Im a Software Engineer
 ### implement design to code
 <br>
 I'm Study in <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandung</a>
