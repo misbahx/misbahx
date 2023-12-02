@@ -39,5 +39,3 @@ I'm Organization in <a href="https://oxigen.web.id/">OXIGEN Sekolah Tinggi Tekno
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-
-[![Misbah GitHub stats](https://github-readme-stats.vercel.app/api?username=misbahdevs)](https://github.com/misbahdevs/)
