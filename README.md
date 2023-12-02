@@ -1,13 +1,5 @@
 ### Hello 👋
 ## Im Misbah
-
-[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/misbahlmnr/)
-[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/misbahhlmnr_/)
-[![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCPzyw8zrUglqO0xxQG7o2jA)
-[![](https://img.shields.io/badge/-Medium-%23181717?style=flat-square&logo=medium&logoColor=ffffff)]()
-[![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://www.brokensec.my.id/)
-[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/misbahdevs/)
-
 ## Im a Software Engineer
 ### implement design to code
 <br>
@@ -15,6 +7,12 @@ I'm Study in <a href="https://sttbandung.ac.id/">Sekolah Tinggi Teknologi Bandun
 <br>
 I'm Organization in <a href="https://oxigen.web.id/">OXIGEN Sekolah Tinggi Teknologi Bandung</a>
 <br>
+[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/misbahlmnr/)
+[![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/misbahhlmnr_/)
+[![](https://img.shields.io/badge/-Youtube-%23FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCPzyw8zrUglqO0xxQG7o2jA)
+[![](https://img.shields.io/badge/-Medium-%23181717?style=flat-square&logo=medium&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-Blogger-%23181717?style=flat-square&logo=blogger&logoColor=ffffff)](https://www.brokensec.my.id/)
+[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/misbahdevs/)
 
 ## 🚀💻 Technologies & Tools
 
