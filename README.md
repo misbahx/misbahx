@@ -1,5 +1,5 @@
 ### Hello 👋
-## My name Misbah
+## Im Misbah
 
 [![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/misbahlmnr/)
 [![](https://img.shields.io/badge/-Instagram-%23C51A4A?style=flat-square&logo=instagram&logoColor=ffffff)](https://www.instagram.com/misbahhlmnr_/)
